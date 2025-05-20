@@ -1,3 +1,3 @@
-ppo_homegrid_aligned.zip
-ppo_homegrid_naive.zip
-reward_model.pkl
+data/
+models/
+outputs/
